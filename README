@@ -1,0 +1,15 @@
+design-pattern
+
+自己学习php设置模式的案例
+
+观察者模式 单列模式  装饰器模式
+
+
+访问路径
+http://www.demo.com/home/index
+
+http://www.demo.com/home/order
+
+bootstrap/app.php 这里有单列模式  装饰器模式
+
+app/Controllers/Home.php 观察者模式
